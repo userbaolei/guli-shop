@@ -4,6 +4,13 @@
     <modelVersion>4.0.0</modelVersion>
     <modules>
 
+        <module>gulimaill_coupon</module>
+        <module>gulimaill_member</module>
+        <module>gulimaill_order</module>
+        <module>gulimaill_product</module>
+        <module>gulimaill_ware</module>
+        <module>gulimaill_common</module>
+        <module>renren-fast</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
